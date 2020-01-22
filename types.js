@@ -1,0 +1,11 @@
+var isDone = false;
+var decimal = 6;
+var color = "blue";
+var list = [1, 2, 3, 4, 5];
+var notSure = 4;
+notSure = "maybe a string instead";
+notSure = false;
+console.log(decimal);
+console.log(color);
+console.log(list);
+console.log(notSure);
